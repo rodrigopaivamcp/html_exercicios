@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+  <title>Voa!</title>
+    <meta name="description" content="Passeio pelas capitais do Brasil."/>
+    <meta charset="utf-8" />
+</head>
+<body>
+  <h1>Conheça o Brasil!</h1>
+<p>Passeio pelas capitais</p>
+<h2>Packages</h2>
+<p>Passeie pela Cidade Maravilhosa ou conheça a Terra da Garoa!</p>
+<ul>
+  <li>RJ <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+  <li>SP <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+</ul>
+<h2>Top Itineraries</h2>
+<figure>
+<a href="https://www.freecodecamp.org/learn" target="_blank">
+  <img src="https://images.pexels.com/photos/9202732/pexels-photo-9202732.jpeg" alt="Cheia de cantos mil!">
+</a>
+<figcaption>Coração do Brasil!</figcaption>
+</figure>
+<figure>
+<a href="https://www.freecodecamp.org/learn" target="_blank">
+<img src="https://images.pexels.com/photos/27612483/pexels-photo-27612483.jpeg" alt="Nunca falha em surpreender!"></a>
+<figcaption>Museu do Ipiranga</figcaption>
+</figure>
+<figure>
+<a href="https://www.freecodecamp.org/learn" target="_blank">
+  <img src="https://images.pexels.com/photos/623174/pexels-photo-623174.jpeg" alt="Cataratas do Iguaçu"></a>
+<figcaption>Além do eixo Rio-Sampa</figcaption>
+</figure>
+</body>
+
+
+
+</html>
