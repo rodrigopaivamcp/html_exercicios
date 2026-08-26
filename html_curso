@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+    <h1>Aprenda HTML</h1>
+    <p>Neste curso você aprenderá a base sobre HTML</p>
+    <section>
+        <h2>Atributos</h2>
+        <p>Para que servem os atributos?</p>
+        <iframe src="https://www.youtube.com/shorts/qRlj8Uz6KYs" title="Vídeo que explica sobre os atributos" height="20" width="20">
+    
+        </iframe>
+    </section>
+    <section>
+        <h2>Elementos</h2>
+        <p>Utilidade dos elementos</p>
+        <iframe src="https://www.youtube.com/watch?v=F4oXt0mOE2Y" title="Vídeo que explica sobre os elementos"  height="20" width="20">
+        </iframe>
+
+
+
+    </section>
+    <section>
+        <h2>Tags</h2>
+        <p>Importância das tags</p>
+        <iframe src="https://www.youtube.com/watch?v=GVVfzrycJ1M" title="Vídeo que explica sobre as tags"  height="20" width="20">
+        </iframe>
+
+
+
+    </section>
+</main>
