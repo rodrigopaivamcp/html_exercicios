@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+<table>
+  <thead>
+    <tr>
+    <th>Title</th>
+    <th>Author</th>
+    <th>Genre</th>
+    <th>Publication Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hamlet</td>
+      <td>William Shakespeare</td>
+      <td>Drama</td>
+      <td>1603</td>
+      </tr>  
+      <td>Odyssey</td>
+      <td>Homer</td>
+      <td>Epic</td>
+      <td>1488</td>
+      </tr>  
+      <td>Dom Casmurro</td>
+      <td>Machado de Assis</td>
+      <td>Romance</td>
+      <td>1899</td>
+      </tr>  
+      <td>D Pedro I: A História Não Contada</td>
+      <td>Paulo Rezutti</td>
+      <td>History</td>
+      <td>2024</td>
+      </tr>  
+
+      <td>SPQR</td>
+      <td>Mary Beard</td>
+      <td>History</td>
+      <td>2015</td>
+      </tr>  
+    </tbody>
+  <tfoot>
+    <tr>
+     <td colspan="4">Total Books: 5</td>
+    </tr>
+  </tfoot>
+</table>
+<body>
+</body>
+
+</html>
