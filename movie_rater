@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Movie Review</title>
+ </head>
+
+<body>
+<main>
+    <h1>The Last Samurai</h1>
+    <img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/0/7/51507-the-last-samurai-0-600-0-900-crop.jpg?v=06ced446cd" alt="O fim da nobre classe de guerreiros japoneses">
+    <p>Neste filme acompanhamos Nathan Algren, capitão norte-americano traumatizado pela Guerra Civil Americanae que é contratado para treinar o novo exército imperial do Japão.</p>
+    <p>
+        <b>Movie Rating:</b>
+        <span aria-hidden="true">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>(9/10)
+        <h2>Cast Members</h2>
+        <ul>
+            <li><b>Tom Cruise</b> as Nathan Algren</li>
+            <li><b>Ken Watanabe</b> as Katsumoto</li>
+            <li><b>Koyuki</b> as Taka</li>
+            <li><b>Hiroyuki Sanada</b> as Ujio</li>
+            <li><b>Tony Goldwyn</b> as Coronel Benjamin</li>
+        </ul>
+    </p>
+</main>
+</body>
+
+</html>
